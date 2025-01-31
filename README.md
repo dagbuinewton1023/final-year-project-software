@@ -1,0 +1,1 @@
+This repository is to incorperate Artificial Intelligence "AI" to drones used for survillience on illegal mining sites with the help of YOLO, "You Only Look Once" algorithm to classify objects from a live feed camera on the drone. 
